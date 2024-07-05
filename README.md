@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-i love php
+i love php, but i dont know how to use it 
 
 <!--
 **maslukasz/maslukasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
