@@ -2,6 +2,7 @@
 
 i love php, but i dont know how to use it 
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maslukasz&theme=tokyonight" alt="mystreak"/>
 <!--
 **maslukasz/maslukasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
