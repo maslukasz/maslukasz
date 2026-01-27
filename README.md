@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-i love php, but i dont know how to use it 
+noob
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maslukasz&theme=tokyonight" alt="mystreak"/>
 <!--
